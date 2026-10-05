@@ -1,0 +1,1 @@
+MMG_01_Services_Features_How_It_Works for RAG purpose
